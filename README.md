@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=85&lines=Mohamed-Hedi+Abdessalem;Mobile-first+Full-Stack+Developer;React+Native+Front-End+Owner;Dundill+Product+Builder;Shipping+production-ready+features" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=85&lines=Mohamed-Hedi+Abdessalem;Also+known+as+FighterSoul;Mobile-first+Full-Stack+Developer;React+Native+Front-End+Owner;Dundill+Product+Builder;Shipping+production-ready+features" alt="Typing SVG" />
 </a>
 
 ### Mobile-first Full-Stack Developer • Front-End Owner • Product Builder
@@ -11,6 +11,7 @@ I build polished mobile experiences, the APIs behind them, and the internal tool
 <p>
   <img src="https://img.shields.io/badge/Focus-Mobile%20Full--Stack-blue?style=for-the-badge" alt="Mobile Full-Stack" />
   <img src="https://img.shields.io/badge/Role-Front--End%20Owner-success?style=for-the-badge" alt="Front-End Owner" />
+  <img src="https://img.shields.io/badge/Also%20Known%20As-FighterSoul-7C3AED?style=for-the-badge&logo=github" alt="Also known as FighterSoul" />
   <img src="https://img.shields.io/badge/Shipping-Production%20Features-orange?style=for-the-badge" alt="Production Features" />
 </p>
 
@@ -34,6 +35,21 @@ I like owning the full path from idea → implementation → merge → release.
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/FighterSoul">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FighterSoul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="FighterSoul GitHub Stats" />
+</a>
+<img height="180em" src="https://streak-stats.demolab.com?user=FighterSoul&theme=tokyonight&hide_border=true&border_radius=8" alt="FighterSoul GitHub Streak" />
+
+</div>
+
+> I previously contributed under the **FighterSoul** GitHub identity. This activity block is intentionally based on `FighterSoul` so the profile reflects the larger contribution history connected to that account/alias.
+
+---
+
 ## 📈 Verified contribution snapshot
 
 <div align="center">
@@ -41,17 +57,18 @@ I like owning the full path from idea → implementation → merge → release.
 <img src="https://img.shields.io/badge/Dundill%20accepted%20PRs-266%2B-58A6FF?style=for-the-badge&logo=github" alt="266+ Dundill accepted PRs" />
 <img src="https://img.shields.io/badge/Golden%20Mobile-166%2B%20merged%20PRs-39D353?style=for-the-badge&logo=react" alt="166+ Golden Mobile merged PRs" />
 <img src="https://img.shields.io/badge/Golden%20Backend-100%2B%20merged%20PRs-B18CFE?style=for-the-badge&logo=nestjs" alt="100+ Golden Backend merged PRs" />
+<img src="https://img.shields.io/badge/FighterSoul%20History-Included-7C3AED?style=for-the-badge&logo=github" alt="FighterSoul history included" />
 <img src="https://img.shields.io/badge/Front--End%20Ownership-Active-FFB86C?style=for-the-badge&logo=react" alt="Active front-end ownership" />
 
 </div>
 
-> Public GitHub stats widgets can undercount private/internal organization work. This section highlights verified Dundill activity, including accepted and merged pull requests authored from my GitHub account.
+> Public GitHub stats widgets can undercount private/internal organization work. This section highlights verified Dundill activity, including accepted pull requests and historical commits tied to my current GitHub account and my previous **FighterSoul** identity.
 
 | Area | Verified signal | What I shipped |
 |---|---:|---|
-| **Golden Mobile** | **166+ merged PRs** | React Native ownership, profile flows, localization, Page Pro UX, messaging, events, pricing handoff, release branches, production fixes |
-| **Golden Backend** | **100+ merged PRs** | NestJS + GraphQL APIs, MongoDB persistence, media handling, moderation, billing/profile logic, search, quotas, auth, notifications |
-| **Golden Dashboard / CMS Builder App** | Internal/private contribution area | Laravel + Vue/Inertia admin tooling, CMS workflows, user/certification operations, releases, permissions, operational dashboards |
+| **Golden Mobile** | **166+ merged PRs + FighterSoul history** | React Native ownership, profile flows, localization, Page Pro UX, messaging, events, pricing handoff, release branches, production fixes |
+| **Golden Backend** | **100+ merged PRs + FighterSoul history** | NestJS + GraphQL APIs, MongoDB persistence, media handling, moderation, billing/profile logic, search, quotas, auth, notifications |
+| **Golden Dashboard / CMS Builder App** | **FighterSoul / internal contribution history** | Laravel + Vue/Inertia admin tooling, CMS workflows, user/certification operations, releases, billing, permissions, operational dashboards |
 | **ADB Transport** | Internal/private contribution area | Mobile/platform delivery support, transport workflows, app release operations, integration support |
 
 ---
@@ -102,6 +119,7 @@ I contribute across the Dundill product ecosystem, with a strong focus on mobile
 
 ## 🧾 Contribution highlights
 
+- **FighterSoul contribution history included** so the profile reflects my previous GitHub identity as well as my current one.
 - **266+ verified accepted PRs across Dundill work**, with real activity likely higher because some private/internal work is not represented by public GitHub widgets.
 - **166+ merged PRs in Golden Mobile**, including production release streams, front-end fixes, feature work, UI/UX improvements, localization, pricing handoff, and release branch merges.
 - **100+ merged PRs in Golden Backend**, covering GraphQL/NestJS APIs, MongoDB persistence, billing/profile logic, media handling, moderation, search, quotas, authentication, and notifications.
