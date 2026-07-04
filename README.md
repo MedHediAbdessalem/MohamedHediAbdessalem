@@ -34,6 +34,28 @@ I like owning the full path from idea → implementation → merge → release.
 
 ---
 
+## 📈 Verified contribution snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Dundill%20accepted%20PRs-266%2B-58A6FF?style=for-the-badge&logo=github" alt="266+ Dundill accepted PRs" />
+<img src="https://img.shields.io/badge/Golden%20Mobile-166%2B%20merged%20PRs-39D353?style=for-the-badge&logo=react" alt="166+ Golden Mobile merged PRs" />
+<img src="https://img.shields.io/badge/Golden%20Backend-100%2B%20merged%20PRs-B18CFE?style=for-the-badge&logo=nestjs" alt="100+ Golden Backend merged PRs" />
+<img src="https://img.shields.io/badge/Front--End%20Ownership-Active-FFB86C?style=for-the-badge&logo=react" alt="Active front-end ownership" />
+
+</div>
+
+> Public GitHub stats widgets can undercount private/internal organization work. This section highlights verified Dundill activity, including accepted and merged pull requests authored from my GitHub account.
+
+| Area | Verified signal | What I shipped |
+|---|---:|---|
+| **Golden Mobile** | **166+ merged PRs** | React Native ownership, profile flows, localization, Page Pro UX, messaging, events, pricing handoff, release branches, production fixes |
+| **Golden Backend** | **100+ merged PRs** | NestJS + GraphQL APIs, MongoDB persistence, media handling, moderation, billing/profile logic, search, quotas, auth, notifications |
+| **Golden Dashboard / CMS Builder App** | Internal/private contribution area | Laravel + Vue/Inertia admin tooling, CMS workflows, user/certification operations, releases, permissions, operational dashboards |
+| **ADB Transport** | Internal/private contribution area | Mobile/platform delivery support, transport workflows, app release operations, integration support |
+
+---
+
 ## 🏢 Dundill work
 
 I contribute across the Dundill product ecosystem, with a strong focus on mobile/front-end ownership and full-stack delivery.
@@ -57,6 +79,7 @@ I contribute across the Dundill product ecosystem, with a strong focus on mobile
 - Shipped and merged mobile release work across active production versions, including `1.0.23` → `1.0.39` release streams.
 - Delivered mobile platform pricing handoff work.
 - Improved profile and Rencontre-related UI flows, including profile item alignment, profile updates, orientation/gender fixes, and localization improvements.
+- Built and polished Page Pro experiences, messaging flows, event screens, gallery/media flows, e-wallet screens, and production UI fixes.
 - Coordinated release-branch merges, including Dev-branch integration into release branches.
 - Focused on production UX quality: consistency, responsiveness, edge cases, and reliable app behavior.
 
@@ -65,7 +88,9 @@ I contribute across the Dundill product ecosystem, with a strong focus on mobile
 - Added and refined GraphQL/NestJS features supporting mobile product flows.
 - Worked on billing profile persistence, `PARTICULIER / PRO` profile types, and Stripe-safe synchronization behavior.
 - Contributed to moderation workflows including device moderation, banned-face handling, avatar moderation order, disclaimers, and Rekognition deduplication support.
+- Built and improved media upload flows with AWS S3, image handling, gallery operations, posts, comments, user feeds, and real-time updates.
 - Implemented or improved monthly video viewing quota logic, search engine updates, forgot-password mutation exposure, geolocation/profile behavior, and notification-related fixes.
+- Helped stabilize mobile/backend contracts so front-end delivery stays fast and reliable.
 
 ### 🧩 Dashboard / CMS / internal tools
 
@@ -75,26 +100,13 @@ I contribute across the Dundill product ecosystem, with a strong focus on mobile
 
 ---
 
-## 📈 Contribution & activity
+## 🧾 Contribution highlights
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=MedHediAbdessalem&theme=tokyonight&hide_border=true&border_radius=12" alt="Mohamed-Hedi Abdessalem GitHub streak stats" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedHediAbdessalem&theme=tokyonight" alt="Mohamed-Hedi Abdessalem GitHub profile summary" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MedHediAbdessalem&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohamed-Hedi%20Abdessalem%27s%20Contribution%20Graph" alt="Mohamed-Hedi Abdessalem contribution graph" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MedHediAbdessalem&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed-Hedi Abdessalem GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedHediAbdessalem&layout=compact&theme=tokyonight&hide_border=true" alt="Mohamed-Hedi Abdessalem top languages" />
-
-</div>
+- **266+ verified accepted PRs across Dundill work**, with real activity likely higher because some private/internal work is not represented by public GitHub widgets.
+- **166+ merged PRs in Golden Mobile**, including production release streams, front-end fixes, feature work, UI/UX improvements, localization, pricing handoff, and release branch merges.
+- **100+ merged PRs in Golden Backend**, covering GraphQL/NestJS APIs, MongoDB persistence, billing/profile logic, media handling, moderation, search, quotas, authentication, and notifications.
+- Active ownership of **Golden Mobile front-end**, including accepted merges and release-ready production fixes.
+- Product contributions across **Golden Dashboard / CMS Builder App** and **ADB Transport**, especially internal tooling, admin workflows, release operations, and mobile delivery support.
 
 ---
 
