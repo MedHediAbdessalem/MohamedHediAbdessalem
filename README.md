@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed-Hedi Abdessalem
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=85&lines=Mohamed-Hedi+Abdessalem;Mobile-first+Full-Stack+Developer;React+Native+Front-End+Owner;Dundill+Product+Builder;Shipping+production-ready+features" alt="Typing SVG" />
+</a>
 
 ### Mobile-first Full-Stack Developer • Front-End Owner • Product Builder
 
@@ -73,6 +75,29 @@ I contribute across the Dundill product ecosystem, with a strong focus on mobile
 
 ---
 
+## 📈 Contribution & activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=MedHediAbdessalem&theme=tokyonight&hide_border=true&border_radius=12" alt="Mohamed-Hedi Abdessalem GitHub streak stats" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedHediAbdessalem&theme=tokyonight" alt="Mohamed-Hedi Abdessalem GitHub profile summary" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MedHediAbdessalem&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohamed-Hedi%20Abdessalem%27s%20Contribution%20Graph" alt="Mohamed-Hedi Abdessalem contribution graph" />
+
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MedHediAbdessalem&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed-Hedi Abdessalem GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedHediAbdessalem&layout=compact&theme=tokyonight&hide_border=true" alt="Mohamed-Hedi Abdessalem top languages" />
+
+</div>
+
+---
+
 ## 🧠 How I work
 
 - **Front-end ownership:** I care about UX polish, component structure, reusable patterns, and making mobile flows feel natural.
@@ -111,15 +136,6 @@ I contribute across the Dundill product ecosystem, with a strong focus on mobile
 - Keeping mobile and backend contracts clean and stable
 - Building admin/CMS tools that improve operational workflows
 - Turning bugs, edge cases, and release pressure into better product quality
-
----
-
-## 📊 GitHub snapshot
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MedHediAbdessalem&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedHediAbdessalem&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
 
 ---
 
